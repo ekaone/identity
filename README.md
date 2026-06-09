@@ -1,5 +1,3 @@
-# > Not Published Yet
-
 # @ekaone/identity
 
 > Zero-dependency TypeScript library for defining, validating, and composing **agent identities** in multi-agent systems.
