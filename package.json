@@ -1,7 +1,7 @@
 {
   "name": "@ekaone/identity",
   "version": "0.0.1",
-  "description": "Part of Agent OS - defines who an agent is, what it can do, and what authority it holds",
+  "description": "Defines who an agent is, what it can do, and what authority it holds",
   "keywords": [
   "agent-os",
   "agent",
